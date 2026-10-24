@@ -35,7 +35,7 @@ gcc -std=c11 -Wall -Wextra main.c -o programa
 
 ## Vídeo de apresentação
 
-[INSIRA AQUI O LINK DO VÍDEO NO YOUTUBE]
+https://youtu.be/WAGw4_cljqI
 
 ## Referências
 
